@@ -1,4 +1,0 @@
-package jk;
-
- class jk {
-}
